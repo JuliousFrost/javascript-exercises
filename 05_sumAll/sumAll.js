@@ -21,7 +21,7 @@ const sumAll = function(int1,int2) {
         total+= int1;
         int1++;
     }
-    console.log("Neer is a nub");
+    console.log("🚀 ~ file: sumAll.js:12 ~ sumAll ~ total: total");
 
     return total;
 
